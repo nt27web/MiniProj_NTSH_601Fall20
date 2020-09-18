@@ -10,7 +10,7 @@
 ## **Index of the Mini Project Website:**
 
 **Page 1:** 
-[**Home**](../Homepage.md)
+[**Home**](pages/Homepage.md)
 
 **Page 2: Course Overview**
 
