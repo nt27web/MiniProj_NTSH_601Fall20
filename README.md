@@ -70,3 +70,14 @@
 * **Comparing workflows**
 
 **Page 7: Migrating to Git**
+
+##Sources
+https://datasift.github.io/gitflow/IntroducingGitFlow.html
+https://guides.github.com/features/mastering-markdown/
+https://www.markdownguide.org/tools/github-pages/
+
+##Change log
+Version | Artifacts | Description | Developer
+------------ | ------------- | ------------- | ------------- |
+1.0 | Readme.md | Created file,added content, formatted | Nayana
+1.1|  | | |
