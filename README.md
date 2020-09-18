@@ -81,5 +81,7 @@ https://www.markdownguide.org/tools/github-pages/
 ## Change log
 Version | Artifacts | Description | Developer
 ------------ | ------------- | ------------- | ------------- |
-1.0 | Readme.md | Created file,added content, formatted | Nayana
+1.0 | Readme.md | Created file, added and formatted content | Nayana
 1.1|  | | |
+1.2|  | | |
+1.3|  | | |
