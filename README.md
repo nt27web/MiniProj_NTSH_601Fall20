@@ -38,7 +38,7 @@
 
 * **Git Cheatsheet**
 
-**Page 5: Course Topic 2 - [**Getting Started**](pages/gettingstarted.md)
+**Page 5: Course Topic 2 -** [**Getting Started**](pages/gettingstarted.md)
 
 * **Setting up a repository**
 
@@ -82,6 +82,9 @@ https://www.markdownguide.org/tools/github-pages/
 Version | Artifacts | Description | Developer
 ------------ | ------------- | ------------- | ------------- |
 1.0 | Readme.md | Created file, added and formatted content | Nayana
-1.1|  | | |
-1.2|  | | |
-1.3|  | | |
+1.1|  Homepage.md|Created file, added and formatted content | Nayana 
+1.2|  gettingstarted.md|Created file, added and formatted content | Nayana
+1.3|  about.md|Created file, added and formatted content | Sourav
+1.4|  beginner.md|Created file, added and formatted content | Sourav
+1.5|  | | |
+1.6|  | | |
