@@ -1,5 +1,5 @@
 
-# **Web Devlopment Training- Mini Project**
+# **Web Development Training- Mini Project**
 
 ## **Team members:**
 
