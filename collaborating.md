@@ -100,7 +100,7 @@ Pull Request	|Term used in collaboration. You “issue a pull request” to the 
 
 **Git Syncing**
 
-Git Syncing! *Turoials*
+Git Syncing! *Tutorials*
 [Git Syncing](https://www.atlassian.com/git/tutorials/syncing)
 
 **Understanding the GitHub flow**
