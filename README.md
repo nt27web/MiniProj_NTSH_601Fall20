@@ -38,7 +38,7 @@
 
 * **Git Cheatsheet**
 
-**Page 5: Course Topic 2 - Getting Started**
+**Page 5: Course Topic 2 - [**Getting Started**](pages/gettingstarted.md)
 
 * **Setting up a repository**
 
@@ -53,7 +53,6 @@
 
 * **Undoing changes**
 
-* **Rewriting history**
 
 **Page 6: Course Topic 3 - Collaborating**
 
