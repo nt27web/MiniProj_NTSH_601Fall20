@@ -1,4 +1,5 @@
 **<h1>COLLABORATING ON GITHUB<h1>**
+
 **GIT VS GITHUB**
 
 **GIT**
@@ -124,7 +125,7 @@ Because of this, it's extremely important that your new branch is created off of
 
 **Add commits**
 
-![Add commits](/C:\Users\sh667\MiniProject\MiniProj_NTSH_601Fall20\images/flow 2.png)
+![Add commits](/C:\Users\sh667\MiniProject\MiniProj_NTSH_601Fall20\images\flow 2.png)
 Once your branch has been created, it's time to start making changes. Whenever you add, edit, or delete a file, you're making a commit, and adding them to your branch. This process of adding commits keeps track of your progress as you work on a feature branch.
 
 Commits also create a transparent history of your work that others can follow to understand what you've done and why. Each commit has an associated commit message, which is a description explaining why a particular change was made. Furthermore, each commit is considered a separate unit of change. This lets you roll back changes if a bug is found, or if you decide to head in a different direction.
@@ -135,7 +136,7 @@ Commit messages are important, especially since Git tracks your changes and then
 
 **Open a Pull Request**
 
-![pen a Pull Request](/C:\Users\sh667\MiniProject\MiniProj_NTSH_601Fall20\images/flow 3.png)
+![pen a Pull Request](/C:\Users\sh667\MiniProject\MiniProj_NTSH_601Fall20\images\flow 3.png)
 **Open a Pull Request**
 
 Pull Requests initiate discussion about your commits. Because they're tightly integrated with the underlying Git repository, anyone can see exactly what changes would be merged if they accept your request.
@@ -148,7 +149,7 @@ Pull Requests are useful for contributing to open source projects and for managi
 
 **Discuss and review your code**
 
-![Discuss and review your code](/C:\Users\sh667\MiniProject\MiniProj_NTSH_601Fall20\images/flow 4.png)
+![Discuss and review your code](/C:\Users\sh667\MiniProject\MiniProj_NTSH_601Fall20\images\flow 4.png)
 
 **Discuss and review your code**
 
@@ -162,7 +163,7 @@ Pull Request comments are written in Markdown, so you can embed images and emoji
 
 **Deploy**
 
-![Deploy](/C:\Users\sh667\MiniProject\MiniProj_NTSH_601Fall20\images/flow 5.png)
+![Deploy](/C:\Users\sh667\MiniProject\MiniProj_NTSH_601Fall20\images\flow 5.png)
 
 **Deploy**
 
@@ -174,7 +175,7 @@ Different teams may have different deployment strategies. For some, it may be be
 
 **Merge**
 
-![Merge](/C:\Users\sh667\MiniProject\MiniProj_NTSH_601Fall20\images/flow 6.png)
+![Merge](/C:\Users\sh667\MiniProject\MiniProj_NTSH_601Fall20\images\flow 6.png)
 
 
 Now that your changes have been verified in production, it is time to merge your code into the main branch.
