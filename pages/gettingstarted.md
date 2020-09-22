@@ -3,7 +3,7 @@
 
 
 
-##**Setting up a repository**
+## **Setting up a repository**
 
 
 
@@ -11,7 +11,7 @@
 
 A Git repository is a virtual storage of your project. It allows you to save versions of your code, which you can access when needed. 
 
-  ###1. Initializing a new repository: git init
+  ### 1. Initializing a new repository: git init
   
   To create a new repo, you'll use the git init command. git init is a one-time command you use during the initial setup of a new repo. Executing this command will create a new .git subdirectory in your current working directory. This will also create a new master branch.
   
@@ -22,7 +22,7 @@ A Git repository is a virtual storage of your project. It allows you to save ver
   ```
    
   
-  ###2. Cloning an existing repository: git clone
+  ### 2. Cloning an existing repository: git clone
   If a project has already been set up in a central repository, the clone command is the most common way for users to obtain a local development clone. Like git init, cloning is generally a one-time operation. Once a developer has obtained a working copy, all version control operations are managed through their local repository.
     
   _Command:_
@@ -31,7 +31,7 @@ A Git repository is a virtual storage of your project. It allows you to save ver
   git clone
   ```
 
-  ###3. Saving changes to the repository: git add and git commit
+  ### 3. Saving changes to the repository: git add and git commit
   Now that you have a repository cloned or initialized, you can commit file version changes to it. The following example assumes you have set up a project at _path/to/project_. 
   
   
@@ -51,11 +51,11 @@ cd /path/to/project echo "test content for git tutorial" >> CommitTest.txt git a
   * Create a new commit with a message describing what work was done in the commit
   
   
-  ###4. Repo-to-repo collaboration: git push
+  ### 4. Repo-to-repo collaboration: git push
   Git’s collaboration model is based on repository-to-repository interaction. You push or pull commits from one repository to another.
   
      
-  ###5. Configuration & set up: git config
+  ### 5. Configuration & set up: git config
   Once you have a remote repo setup, you will need to add a remote repo url to your local git config, and set an upstream branch for your local branches. The git remote command offers such utility.
   
   _Command:_
@@ -78,7 +78,7 @@ Here we demonstrated how to create a git repository using two methods: git init 
   
   
   
-##**Saving changes**
+## **Saving changes**
 
 
 When working in Git, or other version control systems, the concept of "saving" is a more nuanced process than saving in a word processor or other traditional file editing applications. The traditional software expression of "saving" is synonymous with the Git term "committing". A commit is the Git equivalent of a "save". Traditional saving should be thought of as a file system operation that is used to overwrite an existing file or write a new file. Alternatively, Git committing is an operation that acts upon a collection of files and directories.
@@ -107,7 +107,7 @@ Git ignore
 
 ***
 
-##**Git Status: Inspecting a repository**
+## **Git Status: Inspecting a repository**
 
 The git status command displays the state of the working directory and the staging area. It lets you see which changes have been staged, which haven’t, and which files aren’t being tracked by Git. Status output does not show you any information regarding the committed project history. For this, you need to use git log.
 
@@ -134,7 +134,7 @@ The git log command displays committed snapshots. It lets you list the project h
 
 ***
 
-##**Undoing Commits & Changes**
+## **Undoing Commits & Changes**
 
 It is first important to note that Git does not have a traditional 'undo' system like those found in a word processing application. It will be beneficial to refrain from mapping Git operations to any traditional 'undo' mental model. Additionally, Git has its own nomenclature for 'undo' operations that it is best to leverage in a discussion. This nomenclature includes terms like reset, revert, checkout, clean, and more.
 
