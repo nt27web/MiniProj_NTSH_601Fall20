@@ -32,9 +32,9 @@ Git is a type of version control system (VCS) that makes it easier to track chan
 GIT!
 [GIT](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
 
-**4.Why Git for your organization?**
+4.Why Git for your organization?
 [GIT organization](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
 
-**5.GIT SSH ?**
+5.GIT SSH ?
 
 An SSH key is an access credential for the SSH (secure shell) network protocol. This authenticated and encrypted secure network protocol is used for remote communication between machines on an unsecured open network. SSH is used for remote file transfer, network management, and remote operating system access.
