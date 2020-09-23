@@ -12,7 +12,8 @@
 **Page 1:** 
 [**Home**](pages/Homepage.md)
 
-**Page 2: Course Overview**
+**Page 2:**
+[**Course Overview**](pages/overview.md)
 
 **Page 3: About**
 
@@ -82,9 +83,9 @@ https://www.markdownguide.org/tools/github-pages/
 Version | Artifacts | Description | Developer
 ------------ | ------------- | ------------- | ------------- |
 1.0 | Readme.md | Created file, added and formatted content | Nayana
-1.1|  Homepage.md|Created file, added and formatted content | Nayana 
-1.2|  gettingstarted.md|Created file, added and formatted content | Nayana
-1.3|  about.md|Created file, added and formatted content | Sourav
-1.4|  beginner.md|Created file, added and formatted content | Sourav
-1.5|  | | |
-1.6|  | | |
+1.1|  Homepage.md| Created file, added and formatted content | Nayana 
+1.2|  gettingstarted.md| Created file, added and formatted content | Nayana
+1.3|  about.md| Created file, added and formatted content | Sourav
+1.4|  beginner.md| Created file, added and formatted content | Sourav
+1.5|  overview.md| Created file, added and formatted content| Nayana|
+1.6|  collaborating.md| Created file, added and formatted content | Sourav
