@@ -10,7 +10,7 @@ HOBBIES:
 * TREK
 * TRAVEL
 
- ![SOURAV](/C:\Users\sh667\MiniProject\MiniProj_NTSH_601Fall20\images/sourav.jpg)
+ ![SOURAV](../images/sourav.jpg)
  # NAYANA KUMARI THAKUR
 ## MASTER'S IN INFORMATION SCIENCE
 EXPERIENCE:
@@ -23,4 +23,4 @@ HOBBIES:
 * MOVIES
 * TRAVEL
 
- ![NAYANA](/C:\Users\sh667\MiniProject\MiniProj_NTSH_601Fall20\images/nayana.jpg)
+ ![NAYANA](../images/nayana.jpg)
