@@ -10,7 +10,7 @@ HOBBIES:
 * TREK
 * TRAVEL
 LINKDENIN:http://linkedin.com/in/sourav-ha
-![SOURAV](images/sourav.jpg)
+![SOURAV](../images/sourav.jpg)
 
 
  # NAYANA KUMARI THAKUR
@@ -25,5 +25,5 @@ HOBBIES:
 * MOVIES
 * TRAVEL
 
- ![NAYANA](images/nayana.jpg)
+ ![NAYANA](../images/nayana.jpg)
  LINKDENIN:http://linkedin.com/in/nayana-kumari-thakur-6a902a18
