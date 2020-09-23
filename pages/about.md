@@ -1,5 +1,6 @@
 ## SOURAV HALEPALYA ASWATHNARAYAN
 ### MASTER'S IN ENGINEERING MANAGEMENT
+
 EXPERIENCE:
 * PROJECT MANAGEMENT 
 * BUSINESS ANALYST
@@ -31,3 +32,5 @@ HOBBIES:
  ![NAYANA](../images/nayana.jpg)
  
 LinkedIn:http://linkedin.com/in/nayana-kumari-thakur-6a902a18
+
+
