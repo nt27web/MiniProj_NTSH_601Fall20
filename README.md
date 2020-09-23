@@ -15,9 +15,10 @@
 **Page 2:**
 [**Course Overview**](pages/overview.md)
 
-**Page 3: About**
+**Page 3:**
+[**About**](pages/about.md)
 
-**Page 4: Course Topic 1- Beginner**
+**Page 4: Course Topic 1-** [**Beginner**](pages/beginner.md)
 
 * **What is version control**
 
@@ -55,7 +56,8 @@
 * **Undoing changes**
 
 
-**Page 6: Course Topic 3 - Collaborating**
+**Page 6: Course Topic 3 -** [**Collaborating**](pages/collaborating.md)
+
 
 * **Syncing**
 
@@ -70,7 +72,8 @@
 
 * **Comparing workflows**
 
-**Page 7: Migrating to Git**
+**Page 7:**
+[**Migrating to Git**](pages/migration.md)
 
 ## Sources
 https://datasift.github.io/gitflow/IntroducingGitFlow.html
@@ -89,3 +92,5 @@ Version | Artifacts | Description | Developer
 1.4|  beginner.md| Created file, added and formatted content | Sourav
 1.5|  overview.md| Created file, added and formatted content| Nayana|
 1.6|  collaborating.md| Created file, added and formatted content | Sourav
+1.7|  migration.md| Created file, added and formatted content | Sourav
+1.7|  multiple files| Code fix- all branches | Nayana
