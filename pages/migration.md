@@ -82,3 +82,6 @@ We recommend you do the final migration at a time when few people are working, i
 Plan to make a firm cutover from your old version control system to Git; trying to keep multiple systems operating in parallel is confusing since developers may not know how, or where, to check-in and there is no “single source of truth”. Set the old version control system read-only to avoid this, otherwise you may have to try to do a second migration to include any changes that were made in the old system during the migration.
 
 The actual process you take will vary based on the system you’re migrating from. We have a detailed article about migrating from Team Foundation Version Control, and guidance for migrating from other systems as well.
+
+
+ [**Return to Readme**](../README.md)
