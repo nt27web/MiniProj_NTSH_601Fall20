@@ -48,7 +48,7 @@
  
 * commit your changes locally with 
 _Command:_
-  
+   
   ```
   git commit -m "description of your commit"
   ```
